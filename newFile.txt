@@ -1,1 +1,6 @@
-"changes are conflicting"
+master
+"changes in master"
+
+"changes in master"
+newerbranch
+
